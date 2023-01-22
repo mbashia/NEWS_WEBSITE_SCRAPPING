@@ -1,0 +1,41 @@
+
+       heading:Roaming Mantis Spreading Mobile Malware That Hijacks Wi-Fi Routers' DNS Settings
+       link:https://thehackernews.com/2023/01/roaming-mantis-spreading-mobile-malware.html
+       date:Jan 20, 2023
+       news_type:Network Security / Mobile Hacking
+       heading:Gamaredon Group Launches Cyberattacks Against Ukraine Using Telegram
+       link:https://thehackernews.com/2023/01/gamaredon-group-launches-cyberattacks.html
+       date:Jan 20, 2023
+       news_type:Cyber War / Cyber Attack
+       heading:Guide to Building Secure, Compliant Containers
+       link:https://go.thn.li/drata-newsfeed
+       date:
+       news_type:Container Security / DevSecOps
+       heading:WhatsApp Hit with €5.5 Million Fine for Violating Data Protection Laws
+       link:https://thehackernews.com/2023/01/whatsapp-hit-with-55-million-fine-for.html
+       date:Jan 20, 2023
+       news_type:Data Protection / Privacy
+       heading:Chinese Hackers Exploited Recent Fortinet Flaw as 0-Day to Drop Malware
+       link:https://thehackernews.com/2023/01/new-chinese-malware-spotted-exploiting.html
+       date:Jan 20, 2023
+       news_type:Firewall / Network Security
+       heading:New Microsoft Azure Vulnerability Uncovered — EmojiDeploy for RCE Attacks
+       link:https://thehackernews.com/2023/01/new-microsoft-azure-vulnerability.html
+       date:Jan 19, 2023
+       news_type:Cloud Security / Data Security
+       heading:Android Users Beware: New Hook Malware with RAT Capabilities Emerges
+       link:https://thehackernews.com/2023/01/android-users-beware-new-hook-malware.html
+       date:Jan 19, 2023
+       news_type:Mobile Security / Android
+       heading:New Research Delves into the World of Malicious LNK Files and Hackers Behind Them
+       link:https://thehackernews.com/2023/01/new-research-delves-into-world-of.html
+       date:Jan 19, 2023
+       news_type:Threat Intelligence / Malware
+       heading:6 Types of Risk Assessment Methodologies + How to Choose
+       link:https://thehackernews.com/2023/01/6-types-of-risk-assessment.html
+       date:Jan 19, 2023
+       news_type:Risk Assessment
+       heading:Bitzlato Crypto Exchange Founder Arrested for Aiding Cybercriminals
+       link:https://thehackernews.com/2023/01/bitzlato-crypto-exchange-founder.html
+       date:Jan 19, 2023
+       news_type:Cryptocurrency / Money Laundering
